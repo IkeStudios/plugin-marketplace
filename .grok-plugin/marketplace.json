@@ -398,7 +398,7 @@
     },
     {
       "name": "ceraph",
-      "description": "Ceraph React Native MCP: let Grok drive and test React Native and Expo apps end-to-end on iOS and Android devices, simulators and emulators. Snapshots, taps, typing, swipes, screenshots, deep links, reloads, builds and runtime errors.",
+      "description": "Drive and test React Native and Expo apps end-to-end on iOS and Android. Supports real devices, simulators, and emulators. Snapshots, taps, typing, swipes, screenshots, deep links, reloads, builds, and runtime errors.",
       "category": "development",
       "source": {
         "type": "local",

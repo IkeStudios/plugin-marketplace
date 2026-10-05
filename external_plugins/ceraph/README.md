@@ -1,6 +1,6 @@
 # Ceraph for Grok Build
 
-[Ceraph](https://ceraph.dev) lets Grok drive and test your React Native and Expo apps end-to-end on iOS and Android devices, simulators and emulators. Grok can read structured screen snapshots, tap, type, swipe, scroll, open deep links, take screenshots, reload the app, start Metro, build for iOS and Android, and read runtime errors and console logs.
+[Ceraph](https://ceraph.dev) drives and tests your React Native and Expo apps end-to-end on iOS and Android, on real devices, simulators, and emulators. Grok can read structured screen snapshots, tap, type, swipe, scroll, open deep links, take screenshots, reload the app, start Metro, build for iOS and Android, and read runtime errors and console logs.
 
 ## What this plugin installs
 

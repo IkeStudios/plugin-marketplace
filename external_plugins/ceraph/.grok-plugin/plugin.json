@@ -1,7 +1,7 @@
 {
   "name": "ceraph",
   "version": "1.0.0",
-  "description": "Let Grok drive and test React Native and Expo apps end-to-end on iOS and Android devices, simulators and emulators with the Ceraph MCP server.",
+  "description": "Drive and test React Native and Expo apps end-to-end on iOS and Android. Supports real devices, simulators, and emulators.",
   "author": {
     "name": "Ike Studios LLC",
     "url": "https://ceraph.dev"
